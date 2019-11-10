@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.m \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryShadowView.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/amr/Desktop/WorkExpandcart/Shopertino/ios/build/Shopertino/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
